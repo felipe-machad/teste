@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraDoAmorFelipe</string>
+    <string name="name_1">Name1</string>
+    <string name="name_2">Name2</string>
+    <string name="button_text">Calculate your odds</string>
+    <string name="error_null_name">Enter a name</string>
+    <string name="chances_response_toast">Your chances are</string>
+    <string name="chanses_question_text">Your odds are ???%</string>
+
+</resources>
